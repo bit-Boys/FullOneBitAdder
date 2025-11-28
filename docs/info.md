@@ -9,11 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses binary gates to add two binary digits, with a carry in bit. Outputs the sum, as well as a carry out.
 
 ## How to test
 
-Explain how to use your project
+Attach inputs (buttons) to the input A, input B and carry in, and LEDs to out and Cout. Try A, B, and Cin one at a time and make 
+sure only the LED on Out is on. Then try a combination of every two, and make sure just the Cout light is on. Finally, try all 
+three and make sure both LEDs turn on.
 
 ## External hardware
 
